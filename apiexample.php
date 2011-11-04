@@ -18,7 +18,7 @@ $params = array(
 	'show' => 'mister ed',
 	'exact' => 'true',
 	'max' => '5',
-	'website' => 'example.com',
+	'domain' => 'example.com',
 	'format' => 'json'
 	);
 
